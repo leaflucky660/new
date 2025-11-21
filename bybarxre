@@ -7,7 +7,7 @@ local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 
 local password = "dancik23"
-local discordInvite = "https://discord.gg/UccvZ79sYs"
+local discordInvite = "https://discord.gg/EXm9eJYYNK"
 
 local function promptVerification()
     local success, input = pcall(function()
